@@ -1,1 +1,3 @@
 Hola mundo de git es mi primer comentario
+Estamos aprendiendo git diff
+Este es el segundo git diff
